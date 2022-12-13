@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Penyewaan Laptop</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_wisata">Dibekali dengan spesifikasi yang mempuni sehingga dapat di guanak untuk berbagai hal</string>
+
+    <string-array name="laptop">
+        <item>Borobudur</item>
+        <item>Raja Ampat</item>
+        <item>Jepang</item>
+        <item>Korea Selatan</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.7</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>ROG</item>
+        <item>dell</item>
+        <item>Acer</item>
+        <item>Zenbook</item>
+    </string-array>
+</resources>
